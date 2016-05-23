@@ -1,0 +1,21 @@
+@media all and (min-width:401px){
+
+.image{
+	border:solid red 3px;
+	width:30%;
+
+}
+}
+
+@media all and (max-width:400px){
+
+.image{
+	margin-left: 25%;
+}
+}
+
+
+
+#three{
+	width:65%;
+}
